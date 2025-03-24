@@ -9,6 +9,7 @@
 ## RAG
 - https://github.com/NirDiamant/RAG_Techniques
 - https://www.sbert.net/examples/applications/retrieve_rerank/README.html
+- https://levelup.gitconnected.com/testing-18-rag-techniques-to-find-the-best-094d166af27f#9aab -> https://github.com/FareedKhan-dev/all-rag-techniques/tree/main
 
 ## Agents
 - https://huggingface.co/docs/transformers/v4.47.1/agents
